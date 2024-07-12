@@ -3,5 +3,6 @@ BindKey;
 TELEPORT KEY (TELEPORT EVERYONE): X
 UNLOAD CHEAT (CLOSE CHEAT): END
 
+video⤵
 
-https://streamable.com/jjssj8
+streamable.com/jjssj8
